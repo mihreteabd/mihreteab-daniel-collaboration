@@ -1,0 +1,23 @@
+#main{
+    text-align: center;
+}
+#title{
+    text-align: center;
+}
+#time-line-section{
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#time-line-section ul{
+    width: 70vw;
+}
+#quot{
+    width: 60vw;
+}
+#quot-container{
+    display: flex;
+    justify-content: center;
+}
